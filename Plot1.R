@@ -1,32 +1,5 @@
 
-# ========================================================================================================================================
-# Description:   Course Project 1 / Plot1.R
-#                Coursera Data Science at Johns Hopkins 
-#
-#                Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. 
-#                The script reconstructs the plots described on Course Project1 assignment
-#                [https://www.coursera.org/learn/exploratory-data-analysis/peer/ylVFo/course-project-1]
-#                All plots have been constructed using the base plotting system.
-#
-# Dataset:       Electric power consumption [20Mb] 
-#                Download link: [https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip]
-#
-# Author:        Bruno Hunkeler
-# Date:          30.03.2016
-#
-# ========================================================================================================================================
 
-# ========================================================================================================================================
-# Load Libraries
-# ========================================================================================================================================
-
-# library('dplyr')
-# library('ggplot2')
-# library('reshape2')
-
-# ========================================================================================================================================
-# Download and extract Data and load file
-# ========================================================================================================================================
 
 zipFile <- "exdata%2Fdata%2Fhousehold_power_consumption.zip"
 
